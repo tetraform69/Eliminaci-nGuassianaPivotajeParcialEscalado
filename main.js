@@ -11,4 +11,4 @@ let constantes = [4, 5, 6, 7]
 
 let result = EliminacionGuassiana(matriz, constantes)
 
-//console.log(result)
+console.log(result)

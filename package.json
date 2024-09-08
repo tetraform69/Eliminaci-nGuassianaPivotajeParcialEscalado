@@ -1,0 +1,25 @@
+{
+  "name": "eliminacionguassiana",
+  "version": "1.0.0",
+  "description": "Laboratorio 1: Eliminación Guassiana Con Pivotaje Parcial Escalado",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "main": "node main.js",
+    "test": "node src/tests/tester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetraform69/Eliminaci-nGuassianaPivotajeParcialEscalado.git"
+  },
+  "keywords": [
+    "Eliminacion",
+    "Guassiana"
+  ],
+  "author": "tetraform69",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetraform69/Eliminaci-nGuassianaPivotajeParcialEscalado/issues"
+  },
+  "homepage": "https://github.com/tetraform69/Eliminaci-nGuassianaPivotajeParcialEscalado#readme"
+}

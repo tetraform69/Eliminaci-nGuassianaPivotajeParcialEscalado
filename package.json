@@ -5,8 +5,7 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "main": "node main.js",
-    "test": "node src/tests/tester.js"
+    "main": "node main.js"
   },
   "repository": {
     "type": "git",

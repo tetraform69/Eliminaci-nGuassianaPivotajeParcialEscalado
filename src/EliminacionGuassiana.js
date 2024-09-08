@@ -34,9 +34,6 @@ function eliminacionGuassiana(matriz, constantes) {
         }
     }
 
-    console.log(matriz);
-    console.log(resultado);
-
     return resultado;
 }
 

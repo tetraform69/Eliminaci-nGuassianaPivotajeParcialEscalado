@@ -9,4 +9,6 @@ let matriz = [
 
 let constantes = [4, 5, 6, 7]
 
-EliminacionGuassiana(matriz, constantes)
+let result = EliminacionGuassiana(matriz, constantes)
+
+//console.log(result)
